@@ -22,7 +22,7 @@
     -->
 
     <!-- First and Last name-->
-
+<form class="row g-3" method="post" action="success.php">
   <div class="col-md-6">
     <label for="firstname" class="form-label">First Name</label>
     <input type="name" class="form-control" id="firstname" name="firstname">
