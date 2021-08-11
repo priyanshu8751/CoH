@@ -1,0 +1,114 @@
+*{
+    margin:0;
+ 	padding: 0;
+	box-sizing: border-box;
+}
+html,body
+{
+	background-color: ghostwhite;
+	color: #000;
+	text-rendering: optimizeLegibility;/*Fonts come clear*/
+	font-size: 16px;
+	font-family: 'Roboto', 'Ariel', sans-serif;
+	font-weight: 300;
+
+
+}
+.row
+{
+	max-width: 1140px;
+	margin:0 auto;
+}
+header
+{
+	background-image:linear-gradient(rgba(255,255,255,.1),rgba(255,255,255,.2)),url("cov.jpeg");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	text-align: left;
+}
+.headerbox
+{
+ position: absolute;
+ top: 40%;
+ left: 60%;
+
+}
+.logo
+{
+	width: 70px;
+	height: auto;
+	border-radius: 200px;
+	float: left;
+	margin: 50px;
+}
+
+h1
+{
+	font-size: 500%;
+	color: #36A1D4;
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+h2
+{
+	font-size: 200%;
+	font-weight: 300;
+}
+.Link
+{
+	text-decoration: none;
+	padding: 10px 30px;
+	border-radius: 200px;
+
+}
+.Linkfull
+{
+	background-color:rgb(36, 118, 133);
+	color: white;
+}
+
+.Linkfull:hover,.Linkfull:active
+{
+	background-color: rgb(219, 74, 26);
+}
+.headerboxtext
+{
+	margin-bottom: 30px;
+}
+.mainnav
+{
+	margin-top: 50px;
+	list-style: none;/*remove bullets*/
+	float: right;
+	font-weight: 500;
+}
+.mainnav li {
+     display: inline-block;
+     margin-right: 40px;
+     text-transform: uppercase;
+}
+.laptopimage
+{
+ width: 100%;
+}
+.aboutpara
+{
+	font-size: 30px;
+}
+.abc
+{
+	margin: 200px;
+	font-size: 25px;
+}
+.Linked
+{
+	text-decoration: none;
+	padding: 10px 10px;
+	border-radius: 200px;
+
+}
+.bg{
+	background-color: crimson;
+}
