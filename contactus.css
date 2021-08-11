@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: url(white.jpg) no-repeat center center fixed;
+    background: url("https://image.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 .content h1{
