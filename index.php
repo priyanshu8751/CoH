@@ -14,7 +14,7 @@
 	  				<img src="images/logo.png" alt="CoHosp Logo" class="logo">
 	  				<ul class="mainnav">
 	  					<li><a href="index.php" class="Linked Linkfull">Home</a></li>
-						<li><a href=""class="Linked Linkfull" >Login</a></li>
+						<li><a href="login.php"class="Linked Linkfull" >Login</a></li>
 	  					<li><a href="contactus.html" class="Linked Linkfull">Contact Us</a></li>
 						<li><a href="aboutus.html"class="Linked Linkfull" >About Us</a></li>
 						<li><a href="resources.html"class="Linked Linkfull" >Resources</a></li>
