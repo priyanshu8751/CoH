@@ -10,7 +10,7 @@
 	<body>
 	  	<header>
 	  		<nav>
-	  				<img src="images/logo.png" alt="CoHosp Logo" class="logo">
+	  				<img src="https://drive.google.com/file/d/1WsRU609xMG6EEgYpCDJ34bVC2YPNnklQ/view?usp=sharing" alt="CoHosp Logo" class="logo">
 	  				<ul class="mainnav">
 	  					<li><a href="index.php" class="Linked Linkfull">Home</a></li>
 						<li><a href=""class="Linked Linkfull" >Login</a></li>
