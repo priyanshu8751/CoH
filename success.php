@@ -1,6 +1,6 @@
 <?php $title="Success";
     include 'includes\header.php';
-    include 'Database\conn.php';
+    
 
     if(isset($_POST['submit']))
     {
