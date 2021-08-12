@@ -1,6 +1,6 @@
 <?php $title="REGISTRATION FORM";
     include 'includes\header.php';
-    require_once 'Database\conn.php';
+ 
     echo'</br>';
 ?>
 
@@ -155,5 +155,5 @@
 </form>
 
 <?php
-    return 'includes/footer.php';
+    include 'includes/footer.php';
 ?>
