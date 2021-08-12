@@ -21,18 +21,18 @@
 
     <!-- First and Last name-->
 
-  <div class="col-md-6">
-    <label for="firstname" class="form-label">First Name</label>
-    <input type="name" class="form-control" id="firstname" name="firstname">
+  <div class="form-group">
+    <label for="firstname" >First Name</label>
+    <input required type="text" class="form-control" id="firstname" name="firstname">
   </div>
-  <div class="col-md-6">
-    <label for="lastname" class="form-label">Last Name</label>
-    <input type="name" class="form-control" id="lastname" name="lastname">
+  <div class="form-group">
+    <label for="lastname" >Last Name</label>
+    <input type="text" class="form-control" id="lastname" name="lastname">
   </div>
 
   <!--Date of birth-->
-    <div class="col-12">
-        <label for="dob" class="form-label">Date of Birth</label>
+    <div class="form-group">
+        <label for="dob" >Date of Birth</label>
     </div>
     <div class="col-md-4">
         <label for="inputdate" class="form-label">Date</label>
@@ -137,20 +137,11 @@
             <label for="floatingTextarea"></label>
         </div>
    </div>
-
-  <div class="col-12">
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" id="gridCheck">
-      <label class="form-check-label" for="gridCheck" name="check">
-        I agree that all information above is correct to my knowledge
-      </label>
-    </div>
-  </div>
-  <div class="col-12">
-    <button type="submit" class="btn btn-primary" name="submit">Register</button>
-  </div>
+ <button type="submit" name="submit" class="btn btn-primary btn-block">Submit</button>
 </form>
-
-<?php
-    include 'includes/footer.php';
-?>
+<br>
+<br>
+<br>
+<br>
+<br>
+<?php require_once 'includes/footer.php'; ?>
