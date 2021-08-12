@@ -1,13 +1,11 @@
 <?php $title="REGISTRATION FORM";
-    include 'includes\header.php';
+    require_once 'includes\header.php';
  
     echo'</br>';
 ?>
 
-    <h1 class="fs-1 text-center ">REGISTRATION FORM</h1>
-    <?php 
-    echo'</br>';
-    ?>
+    <h1 class="text-center ">REGISTRATION FORM</h1>
+    <br>
     
     
 
