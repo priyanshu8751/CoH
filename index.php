@@ -36,7 +36,7 @@
 	    			<p class="aboutpara">	We have patnered with all the local hospitals so as the ensure that data reaching the consumers are <strong>100%</strong> accurate.</p>
 	    		</div>
 	    		<div class="col span_1_of_2 about-box">
-	    			<img src="images/about.jpg" alt="About us" class="laptopimage">
+	    			<img src="about.jpg" alt="About us" class="laptopimage">
 	    		</div>
 	    </section>
 	</body>
